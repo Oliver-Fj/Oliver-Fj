@@ -25,7 +25,7 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
   <img align="center" alt="Rafa-Django" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Rafa-Flask" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Rafa-Mysql" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Heroku" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="Rafa-Heroku" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
 </div>
   
 ##
