@@ -4,8 +4,8 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
 ---
 <div>
   <a href="https://github.com/Oliver-Fj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliver-Fj&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Oliver-Fj&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=20&theme=dracula"/>
 </div>
 <div style="dispaly: inline-block"><br>
   <img align="center" alt="Rafa-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
