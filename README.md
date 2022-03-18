@@ -8,7 +8,7 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=20&theme=dracula"/>
 </div>
 <div style="dispaly: inline-block"><br>
-  <img align="center" alt="Rafa-Figma" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Rafa-Git" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
