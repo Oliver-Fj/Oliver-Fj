@@ -5,7 +5,7 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
 <div>
   <a href="https://github.com/Oliver-Fj">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Oliver-Fj&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=16&theme=dracula"/>
     <img align="right" alt="gift-github" height="150" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 </div>
 <div style="dispaly: inline-block"><br>
