@@ -6,6 +6,7 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
   <a href="https://github.com/Oliver-Fj">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Oliver-Fj&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=20&theme=dracula"/>
+    <img align="right" alt="gift-github" height="150" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 </div>
 <div style="dispaly: inline-block"><br>
   <img align="center" alt="Rafa-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -39,5 +40,6 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
  <a href="https://api.whatsapp.com/send/?phone=51997704395&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/18383885/oliver"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://telegram.org" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://slack.com/intl/es-pe/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
  
 </div>
