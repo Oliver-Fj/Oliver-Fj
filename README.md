@@ -23,7 +23,7 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
   <img align="center" alt="Rafa-Php" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Mongodb" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rafa-NodeJs" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Django" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+
   <img align="center" alt="Rafa-Flask" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Rafa-Mysql" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Heroku" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
