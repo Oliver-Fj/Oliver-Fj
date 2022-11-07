@@ -6,7 +6,7 @@ As well as work in [Python](https://www.python.org/). I also enjoy wireframing, 
   <a href="https://github.com/Oliver-Fj">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Oliver-Fj&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Fj&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="right" alt="gift-github" height="100" width="100" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+    <img align="right" alt="gift-github" height="100" width="100" src="https://www.google.com/search?q=github%20gif&tbm=isch&tbs=itp:animated&rlz=1C1CHJL_esPE949PE949&hl=en&sa=X&ved=0CAQQpwVqFwoTCMDop9ybm_sCFQAAAAAdAAAAABAD&biw=1498&bih=694#imgrc=ENWjmX0RG4vU1M">
 </div>
 <div style="dispaly: inline-block"><br>
   <img align="center" alt="Rafa-Figma" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
