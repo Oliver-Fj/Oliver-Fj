@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5001&pause=1000&color=4FF70E&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+Mid+Senior;Experiencia+en+desarrollo+web;Experto+en+Tecnolog%C3%ADas+Populares)](https://git.io/typing-svg)
+
 ### Hi there 👋
 I'm Oliver from Peru, I'm a full stack developer. I really enjoy learning lenguages and framework like [React](https://reactjs.org/), and [Angular](https://angular.io/).
 As well as work in [Python](https://www.python.org/). I also enjoy wireframing, UI, UX and desing in general, you can check out my [linnkedIn](www.linkedin.com/in/yerson-oliver-felix-perez)
