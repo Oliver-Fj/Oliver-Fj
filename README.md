@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5001&pause=1000&color=4FF70E&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+Mid+Senior;Experiencia+en+desarrollo+web;Experto+en+Tecnolog%C3%ADas+Populares)](https://git.io/typing-svg)
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Grenze+Gotisch&size=30&duration=5001&pause=1000&color=4FF70E&center=true&width=435&lines=Bienvenidos+a+mi+perfil+de+GitHub!;Desarrollador+Backend+Mid+Senior;Experiencia+en+desarrollo+web;Experto+en+Tecnolog%C3%ADas+Populares]" alt="Tu nombre" />
+  </a>
+</p>
+
+
 
 ### Hi there 👋
 I'm Oliver from Peru, I'm a full stack developer. I really enjoy learning lenguages and framework like [React](https://reactjs.org/), and [Angular](https://angular.io/).
